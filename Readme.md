@@ -37,7 +37,7 @@ student-marks-analyzing-system/
 │  ├─ analyzer.py      # Business logic for analysis
 │  ├─ main.py          # Menu-driven UI, entry point
 ├─ data/
-│  └─ marks.csv        # Data file (created automatically if missing)
+│  └─ marks.csv        # Data file
 ├─ tests/
 │  └─ sample_test_notes.txt  # Placeholder for test notes / future tests
 ├─ README.md
