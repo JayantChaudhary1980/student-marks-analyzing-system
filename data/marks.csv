@@ -1,0 +1,10 @@
+student_id,student_name,class_name,subject,marks
+S1,Rahul Sharma,CSE-2A,Math,85
+S1,Rahul Sharma,CSE-2A,DSA,78
+S1,Rahul Sharma,CSE-2A,OS,88
+S2,Ananya Verma,CSE-2A,Math,92
+S2,Ananya Verma,CSE-2A,DSA,81
+S2,Ananya Verma,CSE-2A,OS,79
+S3,Arjun Singh,CSE-2A,Math,60
+S3,Arjun Singh,CSE-2A,DSA,55
+S3,Arjun Singh,CSE-2A,OS,58
