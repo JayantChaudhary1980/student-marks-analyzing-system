@@ -1,10 +1,14 @@
 student_id,student_name,class_name,subject,marks
-S1,Rahul Sharma,CSE-2A,Math,85
-S1,Rahul Sharma,CSE-2A,DSA,78
-S1,Rahul Sharma,CSE-2A,OS,88
-S2,Ananya Verma,CSE-2A,Math,92
-S2,Ananya Verma,CSE-2A,DSA,81
-S2,Ananya Verma,CSE-2A,OS,79
-S3,Arjun Singh,CSE-2A,Math,60
-S3,Arjun Singh,CSE-2A,DSA,55
-S3,Arjun Singh,CSE-2A,OS,58
+S1,Jayant Chaudhary,CSE-2A,Math,88
+S1,Jayant Chaudhary,CSE-2A,DSA,82
+S1,Jayant Chaudhary,CSE-2A,OS,90
+S1,Jayant Chaudhary,CSE-2A,DBMS,84
+S2,Rahul Sharma,CSE-2A,Math,85
+S2,Rahul Sharma,CSE-2A,DSA,78
+S2,Rahul Sharma,CSE-2A,OS,88
+S3,Ananya Verma,CSE-2A,Math,92
+S3,Ananya Verma,CSE-2A,DSA,81
+S3,Ananya Verma,CSE-2A,OS,79
+S4,Arjun Singh,CSE-2A,Math,60
+S4,Arjun Singh,CSE-2A,DSA,55
+S4,Arjun Singh,CSE-2A,OS,58
