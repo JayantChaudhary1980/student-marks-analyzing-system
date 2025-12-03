@@ -1,3 +1,12 @@
+## Project
+
+**Name:** Jayant Chaudhary  
+**Registration Number:** 23BCE10085  
+**Course:** Software Engineering  
+**Assignment:** Student Marks Analyzing System  
+**Submitted To:** Dr. Jay Prakash Maurya  
+**Slot:** B14 + C11 + C12 + C13 + F11 + F12
+
 # Student Marks Analyzing System
 
 A simple command-line **Student Marks Analyzing System** written in Python as a Software Engineering mini-project.
